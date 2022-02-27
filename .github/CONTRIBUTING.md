@@ -32,7 +32,7 @@ To get an overview of the project, read the [README](../Readme.md). Here are som
 <p>Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!</p>
 
 <ol><li>Find an issue that you are interested in addressing or a feature that you would like to add.</li>
-	<li>Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under <strong>IIITH-Resources/DSM</strong>.</li>
+	<li>Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under <strong>IIITH-Resources/Data_Structures_Algorithms</strong>.</li>
 	<li>Clone the repository to your local machine using <strong>git clone <a href="https://github.com/IIITH-Resources/Data_Structures_Algorithms.git">https://github.com/IIITH-Resources/Data_Structures_Algorithms.git</a></strong>.</li>
 	<li>Create a new branch for your fix using <strong>git checkout -b branch-name-here</strong>.</li>
 	<li>Make the appropriate changes for the issue you are trying to address or the feature that you want to add.</li>
