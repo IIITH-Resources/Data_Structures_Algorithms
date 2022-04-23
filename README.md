@@ -1,13 +1,13 @@
-# Course Name
-## Professor : Full Name of Professor/s
+# Data Structures & Algorithms
+## Professor : <!--Full Name of Professor/s -->
 
-Credits : x
+Credits : 5
 
-Lectures : x
+Lectures : 3
 
-Tutorial : x
+Tutorial : 1
 
-Practical : x
+Practical : 3
 
 <!---
 #### Grading Scheme
